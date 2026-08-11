@@ -14,6 +14,7 @@ solving problem
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bipultheking/leetcode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/bipultheking/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/bipultheking/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/bipultheking/leetcode/tree/master/0037-sudoku-solver) |
 | [0904-fruit-into-baskets](https://github.com/bipultheking/leetcode/tree/master/0904-fruit-into-baskets) |
@@ -37,5 +38,10 @@ solving problem
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/bipultheking/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0904-fruit-into-baskets](https://github.com/bipultheking/leetcode/tree/master/0904-fruit-into-baskets) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/bipultheking/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
