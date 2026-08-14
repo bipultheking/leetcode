@@ -1,51 +1,45 @@
 class Solution {
 public:
+
+    bool sahi (int have [],int needed []){
+        for(int i = 0;i<256 ; i++){
+            if(have[i]<needed[i])
+            {
+                return false;
+            }
+           
+        }return true;
+    }
     string minWindow(string s, string t) {
-
-        if (t.size() > s.size())
-            return "";
-
-        int low = 0;
-        int minfrequency = INT_MAX;
-        int count = 0;
-
-        int hash[256] = {0};
-
+        int low =0;
         int startindex = -1;
+        int minfrequency =INT_MAX;
 
-        
-        for (int i = 0; i < t.size(); i++) {
-            hash[t[i]]++;
+        int needed[256] = {0};
+        int have[256 ] = {0};
+
+        for(int i = 0;i<t.size();i++){
+            needed[t[i]]++;
         }
 
-        for (int high = 0; high < s.size(); high++) {
+        for(int high = 0;high<s.size();high ++){
 
-            
-            if (hash[s[high]] > 0) {
-               
-                count++;
-            } hash[s[high]]--;
+            have[s[high]]++;
 
-            
-            while (count == t.size()) {
+            while(sahi(have,needed)){
 
-                
-                if (high - low + 1 < minfrequency) {
-                    minfrequency = high - low + 1;
-                    startindex = low;
-                }
+                if(high - low + 1 < minfrequency) {
+                     minfrequency = high - low + 1;
+                     startindex = low;
+                  }
 
-               
-                hash[s[low]]++;
-
-                if (hash[s[low]] > 0) {
-                    count--;
-                }
-
+                have[s[low]]--;
                 low++;
             }
         }
-
-        return startindex == -1 ? "" : s.substr(startindex, minfrequency);
+         if(startindex == -1)
+            return "";
+        return s.substr(startindex,minfrequency);
+        
     }
 };
