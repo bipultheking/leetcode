@@ -9,6 +9,7 @@ solving problem
 | [0001-two-sum](https://github.com/bipultheking/leetcode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/bipultheking/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/bipultheking/leetcode/tree/master/0037-sudoku-solver) |
+| [0189-rotate-array](https://github.com/bipultheking/leetcode/tree/master/0189-rotate-array) |
 | [0904-fruit-into-baskets](https://github.com/bipultheking/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/bipultheking/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/bipultheking/leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -80,5 +81,10 @@ solving problem
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/bipultheking/leetcode/tree/master/0189-rotate-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/bipultheking/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/bipultheking/leetcode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
