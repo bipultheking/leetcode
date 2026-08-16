@@ -9,6 +9,7 @@ solving problem
 | [0001-two-sum](https://github.com/bipultheking/leetcode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/bipultheking/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/bipultheking/leetcode/tree/master/0037-sudoku-solver) |
+| [0169-majority-element](https://github.com/bipultheking/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/bipultheking/leetcode/tree/master/0189-rotate-array) |
 | [0904-fruit-into-baskets](https://github.com/bipultheking/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/bipultheking/leetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -25,6 +26,7 @@ solving problem
 | [0036-valid-sudoku](https://github.com/bipultheking/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/bipultheking/leetcode/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/bipultheking/leetcode/tree/master/0076-minimum-window-substring) |
+| [0169-majority-element](https://github.com/bipultheking/leetcode/tree/master/0169-majority-element) |
 | [0424-longest-repeating-character-replacement](https://github.com/bipultheking/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/bipultheking/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/bipultheking/leetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -87,4 +89,20 @@ solving problem
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/bipultheking/leetcode/tree/master/0189-rotate-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/bipultheking/leetcode/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/bipultheking/leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/bipultheking/leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/bipultheking/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
