@@ -18,6 +18,7 @@ solving problem
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/bipultheking/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/bipultheking/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/bipultheking/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/bipultheking/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,6 +33,7 @@ solving problem
 | [0930-binary-subarrays-with-sum](https://github.com/bipultheking/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/bipultheking/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/bipultheking/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/bipultheking/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Backtracking
 |  |
 | ------- |
