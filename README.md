@@ -83,6 +83,7 @@ solving problem
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/bipultheking/leetcode/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/bipultheking/leetcode/tree/master/0189-rotate-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/bipultheking/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Two Pointers
@@ -108,5 +109,10 @@ solving problem
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/bipultheking/leetcode/tree/master/0002-add-two-numbers) |
 | [0237-delete-node-in-a-linked-list](https://github.com/bipultheking/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/bipultheking/leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
