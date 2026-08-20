@@ -19,6 +19,7 @@ solving problem
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/bipultheking/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/bipultheking/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/bipultheking/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/bipultheking/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/bipultheking/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Hash Table
 |  |
@@ -127,4 +128,8 @@ solving problem
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/bipultheking/leetcode/tree/master/1386-cinema-seat-allocation) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/bipultheking/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
