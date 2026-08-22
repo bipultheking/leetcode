@@ -11,6 +11,7 @@ solving problem
 | [0037-sudoku-solver](https://github.com/bipultheking/leetcode/tree/master/0037-sudoku-solver) |
 | [0169-majority-element](https://github.com/bipultheking/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/bipultheking/leetcode/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/bipultheking/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0904-fruit-into-baskets](https://github.com/bipultheking/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/bipultheking/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/bipultheking/leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -79,6 +80,7 @@ solving problem
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/bipultheking/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/bipultheking/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/bipultheking/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Prefix Sum
@@ -103,6 +105,7 @@ solving problem
 | [0141-linked-list-cycle](https://github.com/bipultheking/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/bipultheking/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/bipultheking/leetcode/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/bipultheking/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -139,6 +142,7 @@ solving problem
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/bipultheking/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1386-cinema-seat-allocation](https://github.com/bipultheking/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/bipultheking/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Simulation
@@ -158,4 +162,9 @@ solving problem
 | ------- |
 | [0141-linked-list-cycle](https://github.com/bipultheking/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/bipultheking/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/bipultheking/leetcode/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/bipultheking/leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
