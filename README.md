@@ -96,6 +96,7 @@ solving problem
 | [0189-rotate-array](https://github.com/bipultheking/leetcode/tree/master/0189-rotate-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/bipultheking/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/bipultheking/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/bipultheking/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Two Pointers
 |  |
 | ------- |
