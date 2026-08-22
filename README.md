@@ -34,6 +34,7 @@ solving problem
 | [0141-linked-list-cycle](https://github.com/bipultheking/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/bipultheking/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/bipultheking/leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/bipultheking/leetcode/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/bipultheking/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/bipultheking/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/bipultheking/leetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -96,6 +97,7 @@ solving problem
 | ------- |
 | [0002-add-two-numbers](https://github.com/bipultheking/leetcode/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/bipultheking/leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/bipultheking/leetcode/tree/master/0202-happy-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/bipultheking/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/bipultheking/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/bipultheking/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -105,6 +107,7 @@ solving problem
 | [0141-linked-list-cycle](https://github.com/bipultheking/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/bipultheking/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/bipultheking/leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/bipultheking/leetcode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/bipultheking/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
@@ -162,6 +165,7 @@ solving problem
 | ------- |
 | [0141-linked-list-cycle](https://github.com/bipultheking/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/bipultheking/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/bipultheking/leetcode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/bipultheking/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
