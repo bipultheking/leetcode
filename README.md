@@ -78,6 +78,7 @@ solving problem
 | [0076-minimum-window-substring](https://github.com/bipultheking/leetcode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/bipultheking/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/bipultheking/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1927-sum-game](https://github.com/bipultheking/leetcode/tree/master/1927-sum-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -99,6 +100,7 @@ solving problem
 | [0189-rotate-array](https://github.com/bipultheking/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/bipultheking/leetcode/tree/master/0202-happy-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/bipultheking/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1927-sum-game](https://github.com/bipultheking/leetcode/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/bipultheking/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/bipultheking/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Two Pointers
@@ -144,6 +146,7 @@ solving problem
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/bipultheking/leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/bipultheking/leetcode/tree/master/1927-sum-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -173,4 +176,8 @@ solving problem
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/bipultheking/leetcode/tree/master/0287-find-the-duplicate-number) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/bipultheking/leetcode/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
