@@ -110,6 +110,7 @@ solving problem
 | [0142-linked-list-cycle-ii](https://github.com/bipultheking/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/bipultheking/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/bipultheking/leetcode/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/bipultheking/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/bipultheking/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/bipultheking/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Divide and Conquer
@@ -135,6 +136,7 @@ solving problem
 | [0141-linked-list-cycle](https://github.com/bipultheking/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/bipultheking/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/bipultheking/leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/bipultheking/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/bipultheking/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/bipultheking/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
@@ -142,6 +144,7 @@ solving problem
 | ------- |
 | [0002-add-two-numbers](https://github.com/bipultheking/leetcode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/bipultheking/leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/bipultheking/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -180,4 +183,8 @@ solving problem
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/bipultheking/leetcode/tree/master/1927-sum-game) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/bipultheking/leetcode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
