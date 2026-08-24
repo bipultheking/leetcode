@@ -26,7 +26,5 @@ public:
             temp = temp->next;
         }
         return true;
-
-        
     }
 };
