@@ -44,6 +44,7 @@ solving problem
 | [0142-linked-list-cycle-ii](https://github.com/bipultheking/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/bipultheking/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/bipultheking/leetcode/tree/master/0202-happy-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/bipultheking/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/bipultheking/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/bipultheking/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/bipultheking/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -90,6 +91,7 @@ solving problem
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bipultheking/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/bipultheking/leetcode/tree/master/0076-minimum-window-substring) |
+| [0387-first-unique-character-in-a-string](https://github.com/bipultheking/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/bipultheking/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/bipultheking/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1927-sum-game](https://github.com/bipultheking/leetcode/tree/master/1927-sum-game) |
@@ -145,6 +147,7 @@ solving problem
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/bipultheking/leetcode/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/bipultheking/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -215,4 +218,8 @@ solving problem
 | [0053-maximum-subarray](https://github.com/bipultheking/leetcode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/bipultheking/leetcode/tree/master/0152-maximum-product-subarray) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/bipultheking/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/bipultheking/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
