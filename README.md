@@ -12,6 +12,7 @@ solving problem
 | [0053-maximum-subarray](https://github.com/bipultheking/leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/bipultheking/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/bipultheking/leetcode/tree/master/0057-insert-interval) |
+| [0128-longest-consecutive-sequence](https://github.com/bipultheking/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/bipultheking/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/bipultheking/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/bipultheking/leetcode/tree/master/0189-rotate-array) |
@@ -45,6 +46,7 @@ solving problem
 | [0036-valid-sudoku](https://github.com/bipultheking/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/bipultheking/leetcode/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/bipultheking/leetcode/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/bipultheking/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/bipultheking/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/bipultheking/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/bipultheking/leetcode/tree/master/0169-majority-element) |
@@ -238,4 +240,8 @@ solving problem
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/bipultheking/leetcode/tree/master/0056-merge-intervals) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/bipultheking/leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
