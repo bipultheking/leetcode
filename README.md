@@ -23,6 +23,7 @@ solving problem
 | [0904-fruit-into-baskets](https://github.com/bipultheking/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/bipultheking/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/bipultheking/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0986-interval-list-intersections](https://github.com/bipultheking/leetcode/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/bipultheking/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/bipultheking/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1386-cinema-seat-allocation](https://github.com/bipultheking/leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -146,6 +147,7 @@ solving problem
 | [0202-happy-number](https://github.com/bipultheking/leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/bipultheking/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/bipultheking/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0986-interval-list-intersections](https://github.com/bipultheking/leetcode/tree/master/0986-interval-list-intersections) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/bipultheking/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Divide and Conquer
 |  |
@@ -245,4 +247,8 @@ solving problem
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/bipultheking/leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/bipultheking/leetcode/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
