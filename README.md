@@ -8,6 +8,7 @@ solving problem
 | ------- |
 | [0001-two-sum](https://github.com/bipultheking/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/bipultheking/leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/bipultheking/leetcode/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/bipultheking/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/bipultheking/leetcode/tree/master/0037-sudoku-solver) |
 | [0053-maximum-subarray](https://github.com/bipultheking/leetcode/tree/master/0053-maximum-subarray) |
@@ -144,6 +145,7 @@ solving problem
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/bipultheking/leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/bipultheking/leetcode/tree/master/0015-3sum) |
 | [0141-linked-list-cycle](https://github.com/bipultheking/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/bipultheking/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/bipultheking/leetcode/tree/master/0189-rotate-array) |
@@ -160,6 +162,7 @@ solving problem
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/bipultheking/leetcode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/bipultheking/leetcode/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/bipultheking/leetcode/tree/master/0169-majority-element) |
 ## Counting
