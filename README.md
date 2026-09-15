@@ -28,6 +28,7 @@ solving problem
 | [0986-interval-list-intersections](https://github.com/bipultheking/leetcode/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/bipultheking/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/bipultheking/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1288-remove-covered-intervals](https://github.com/bipultheking/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1386-cinema-seat-allocation](https://github.com/bipultheking/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/bipultheking/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/bipultheking/leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -169,6 +170,7 @@ solving problem
 | [0015-3sum](https://github.com/bipultheking/leetcode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/bipultheking/leetcode/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/bipultheking/leetcode/tree/master/0169-majority-element) |
+| [1288-remove-covered-intervals](https://github.com/bipultheking/leetcode/tree/master/1288-remove-covered-intervals) |
 ## Counting
 |  |
 | ------- |
