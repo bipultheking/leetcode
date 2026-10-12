@@ -58,6 +58,7 @@ solving problem
 | [0142-linked-list-cycle-ii](https://github.com/bipultheking/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/bipultheking/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/bipultheking/leetcode/tree/master/0202-happy-number) |
+| [0383-ransom-note](https://github.com/bipultheking/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/bipultheking/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/bipultheking/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/bipultheking/leetcode/tree/master/0525-contiguous-array) |
@@ -109,6 +110,7 @@ solving problem
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bipultheking/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/bipultheking/leetcode/tree/master/0076-minimum-window-substring) |
+| [0383-ransom-note](https://github.com/bipultheking/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/bipultheking/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/bipultheking/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/bipultheking/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -180,6 +182,7 @@ solving problem
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/bipultheking/leetcode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/bipultheking/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/bipultheking/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/bipultheking/leetcode/tree/master/1189-maximum-number-of-balloons) |
 ## Boyer–Moore Majority Vote Algorithm
