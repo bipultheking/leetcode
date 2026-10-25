@@ -121,6 +121,7 @@ solving problem
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/bipultheking/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1927-sum-game](https://github.com/bipultheking/leetcode/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/bipultheking/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/bipultheking/leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Binary Search
 |  |
 | ------- |
